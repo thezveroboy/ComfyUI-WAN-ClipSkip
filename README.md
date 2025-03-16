@@ -1,6 +1,8 @@
 # ComfyUI-CLIPSkip
 
-A custom node for ComfyUI that adds CLIP skip functionality to any workflow using CLIP Vision models. This node allows you to skip a specified number of layers in a CLIP Vision model, which can adjust the style or quality of image embeddings in generation pipelines.
+A custom node for ComfyUI that adds CLIP skip functionality to vanilla WAN workflow using CLIP. This node allows you to skip a specified number of layers in a CLIP model, which can adjust the style or quality of image embeddings in generation pipelines.
+
+![comfy-csm](https://github.com/thezveroboy/ComfyUI-WAN-ClipSkip/picture.jpg)
 
 ## Installation
 
