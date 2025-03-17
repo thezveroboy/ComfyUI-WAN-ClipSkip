@@ -1,0 +1,15 @@
+[project]
+name = "wan-clipskip"
+description = "Custom nodes for ComfyUI implementing the csm model for text-to-speech generation."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["# No additional dependencies required beyond ComfyUI"]
+
+[project.urls]
+Repository = "https://github.com/thezveroboy/ComfyUI-WAN-ClipSkip"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-WAN-ClipSkip"
+Icon = ""
